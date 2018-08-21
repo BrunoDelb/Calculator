@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.leszko.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-08-21T20:56:29" hostname="MacBook-Pro-de-voluntis-2.local" time="0.0">
+  <properties/>
+  <testcase name="testSum" classname="com.leszko.calculator.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
